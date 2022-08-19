@@ -16,7 +16,7 @@
 [bits 16]
 [org 0]
 
-s
+
 inicio:
 
 
